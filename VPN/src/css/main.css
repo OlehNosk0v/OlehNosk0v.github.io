@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Open Sans";
-  src: local("Open Sans"), url(/src/font/OpenSans.ttf)
+  src: local("Open Sans"), url(/VPN/src/font/OpenSans.ttf)
 }
 
 html {
