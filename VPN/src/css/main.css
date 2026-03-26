@@ -40,3 +40,22 @@ body {
 .warning {
    
 }
+
+.table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 2px solid #66fcf1;
+}
+
+img {
+
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+td, th {
+  padding: 20px;
+  border: 1px solid #d5d6d7;
+}
