@@ -26,6 +26,10 @@ header {
   margin-bottom: 3%;
 }
 
+.pre {
+  font-style: italic;
+}
+
 span {
   white-space: pre;
 }
@@ -69,7 +73,7 @@ td, th {
 
   header {
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
 
   .table {
@@ -86,7 +90,7 @@ td, th {
     max-width: 90%;
   }
   
-  pre {
-    font-size: 1.5rem;
+  .pre {
+    font-size: 1.2rem;
   }
 }
